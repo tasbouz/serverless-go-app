@@ -1,5 +1,5 @@
-# Serverless Go Application
-A serverless application written in Gom which provides two services:
+# Serverless Go App
+A serverless application written in Go which provides two services:
 
 - Finds the n'th element of Fibonacci sequence
 - Checks if a number is prime
